@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.*;
-class Lotterie {
+class Lotterie { // je crois que ce code est inutile, reste à vérifier
     private List<Ticket> tickets;
 
     public Lotterie() {
